@@ -1,5 +1,5 @@
 # hello-world
-### My first repository
+### First repository
 
 **Hello World**
 
